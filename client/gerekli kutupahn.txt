@@ -1,0 +1,9 @@
+axios: HTTP isteklerini (GET, POST, PUT, DELETE vb.) kolayca yapmak için kullanılan bir kütüphane. API ile veri alışverişinde idealdir.
+formik: Form oluşturmayı, doğrulamayı ve yönetimi kolaylaştıran bir kütüphane. Özellikle büyük formlarla çalışırken zaman kazandırır.
+react: React ekosisteminin ana kütüphanesi, bileşen tabanlı kullanıcı arayüzleri oluşturmak için kullanılır.
+react-dom: React bileşenlerini tarayıcı DOM'una bağlamak için kullanılır.
+react-router-dom: React uygulamalarında sayfa yönlendirmeleri ve gezinme işlemleri için kullanılır (SPA - Single Page Application).
+web-vitals: Web performansı metriklerini ölçmek için kullanılan bir kütüphane (ör. LCP, FID, CLS).
+yup: Form doğrulama işlemleri için kullanılan şema tabanlı bir doğrulama kütüphanesi. Formik ile uyumlu çalışır.
+bcrypt: password hesh icin bir kutuphane
+jsonwebtoken: auth işlemleri icin kullanılıyor 
